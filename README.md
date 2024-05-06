@@ -2,7 +2,6 @@
 ### и я только начинаю свой путь во Frontend-разработке
 
 👍 Мечтаю освоить Frontend, а дальше - full-stack 
-🏔️ Нет предела соверщенству
 
 #### Мой стек:
 |![icons8-javascript-26](https://user-images.githubusercontent.com/70646350/119318720-4f788180-bc82-11eb-87ff-8201ce9d61c8.png) `JS` | ![icons8-html-5-26](https://user-images.githubusercontent.com/70646350/119315541-9cf2ef80-bc7e-11eb-8f46-ef3766162ab6.png) `HTML` | ![icons8-css3-26](https://user-images.githubusercontent.com/70646350/119316006-1be82800-bc7f-11eb-8166-910c027cd18f.png) `CSS` | ![sass](https://github.com/BreadIsBack/BreadIsBack/assets/62397483/91e19fa3-1c80-46be-acfd-25d5199fa505) `SASS` |
